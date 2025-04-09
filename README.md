@@ -28,10 +28,3 @@
 * Techniques Used: EDA & Feature Engineering Regression Models: Linear, Random Forest , Time Series Models: ARIMA, SARIMA, Prophet,Model Evaluation: MAE & RMSE.
 * Key Skills: Python, pandas, scikit-learn, statsmodels, Prophet, data visualization, time series forecasting.
 * Objective: To identify trends in TCS stock prices and build accurate forecasting models, recommending the best one for future predictions.
-4. TCS Stock Price Forecasting
-
-- Description: A time series forecasting project that predicts the future stock price of TCS using historical data.
-- Techniques Used: ARIMA, SARIMA, LSTM, Data Preprocessing, Time Series Analysis.
-- Key Skills: Time Series Forecasting, Deep Learning, Python, Pandas, Matplotlib.
-- Objective: To forecast stock price movements and assist in making informed investment decisions.
-
