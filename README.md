@@ -33,5 +33,13 @@
 * Techniques Used: Exploratory Data Analysis (EDA), Label Encoding & Feature Engineering, Outlier Handling & Scaling, Correlation Matrix & Feature Selection, Multiple Regression Models, Hyperparameter Tuning, Model Evaluation (MAE, MSE, RMSE, R²).
 * Key Skills: Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib), ML Algorithms (Linear Regression, Decision Tree, KNN, SVR, XGBoost, Gradient Boosting, etc.), Model Evaluation & Comparison, Data Cleaning & Preprocessing, Presentation & Communication (PPT Creation).
 * Objective: To predict the number of furniture items sold based on key product attributes like price, original price, product title, and tags using regression techniques.
+# 8. Google Play Store Apps
+* Description: This project provides an in-depth analysis of apps on the Google Play Store. It explores various features like ratings, reviews, app size, installs, and pricing to uncover insights into app performance and market behavior. The goal is to identify trends and patterns that can help developers, marketers, or users better understand the Android app ecosystem through data-driven exploration and visualizations.
+* Techniques Used: Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization using Matplotlib & Seaborn, Trend & Correlation Analysis.
+* Key Skills: Python, Pandas, NumPy, Matplotlib, Seaborn, Data Wrangling, Analytical Thinking.
+* Objective: To analyze the characteristics of apps on the Google Play Store—such as ratings, reviews, installs, and more—to uncover trends, outliers, and patterns in the app market.
+
+
+
 
 
