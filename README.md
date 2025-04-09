@@ -23,3 +23,8 @@
 * Techniques Used: Linear Regression, Decision Trees, Feature Engineering, Outlier Detection.
 * Key Skills: Regression Modeling, Python, Feature Engineering, Data Analysis.
 * Objective: To predict house prices based on features like location, size, and condition.
+# 6. TCS Stock data - Live and Latest
+* Description: A data science project focused on analyzing and predicting TCS stock prices using historical data, applying regression and time series models.
+* Techniques Used: EDA & Feature Engineering Regression Models: Linear, Random Forest , Time Series Models: ARIMA, SARIMA, Prophet,Model Evaluation: MAE & RMSE.
+* Key Skills: Python, pandas, scikit-learn, statsmodels, Prophet, data visualization, time series forecasting.
+* Objective: To identify trends in TCS stock prices and build accurate forecasting models, recommending the best one for future predictions.
