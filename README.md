@@ -43,6 +43,11 @@
 * Techniques Used: Exploratory Data Analysis, Feature Engineering & Selection, Handling Missing Values & Outliers, Data Visualization (Matplotlib, Seaborn, Power BI, Excel), Classification Models (Random Forest, XGBoost, Logistic Regression, etc.), Model Evaluation.
 * Key Skills: Python (Pandas, NumPy, Sklearn, Matplotlib, Seaborn), Excel (Formulas, Charts, Pivot Tables, Regression), Power BI (DAX, Power Query, Interactive Dashboards), Git & GitHub for version control and collaboration.
 * Objective: To build a predictive model that helps service centers maintain optimal spare part inventory levels and achieve Just-In-Time (JIT) standards, minimizing overstock and understock issues.
+# 10. UBER Analysis 
+* Description: A machine learning project to predict Uber trip demand in NYC using TLC dispatch data. Includes EDA, feature engineering, and multiple regression models. Gradient Boosting achieved the best performance in forecasting trips.
+* Techniques Used: Data Preprocessing (Handling dates, scaling, encoding), Exploratory Data Analysis (EDA), Feature Engineering (day, week, month extraction), Machine Learning Models:Linear Regression, Decision Tree, Random Forest, SVR, KNN, Bagging Regressor, Gradient Boosting, AdaBoost, Hyperparameter Tuning & Cross Validation.
+* Key Skills: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), Data Cleaning & Visualization, Regression Modeling, Model Evaluation (R², MAE, RMSE), Feature Encoding & Scaling.
+* Objective: Predict daily Uber trip demand in NYC using historical dispatching data and identify trends for better resource planning.
 
 
 
