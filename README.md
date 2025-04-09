@@ -38,8 +38,11 @@
 * Techniques Used: Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Visualization using Matplotlib & Seaborn, Trend & Correlation Analysis.
 * Key Skills: Python, Pandas, NumPy, Matplotlib, Seaborn, Data Wrangling, Analytical Thinking.
 * Objective: To analyze the characteristics of apps on the Google Play Store—such as ratings, reviews, installs, and more—to uncover trends, outliers, and patterns in the app market.
-
-
+# 9. IBM HR Analytics Employee Attrition & Performance
+* Description: This project focuses on predicting spare parts inventory requirements for service centers to meet Just-In-Time (JIT) inventory standards. By analyzing historical service data, we built a classification model that identifies the likelihood of part requirements, helping reduce storage costs and improve efficiency.The project combines Python for data modeling, Excel for early insights and reporting, and Power BI for advanced visualizations and dashboards.
+* Techniques Used: Exploratory Data Analysis, Feature Engineering & Selection, Handling Missing Values & Outliers, Data Visualization (Matplotlib, Seaborn, Power BI, Excel), Classification Models (Random Forest, XGBoost, Logistic Regression, etc.), Model Evaluation.
+* Key Skills: Python (Pandas, NumPy, Sklearn, Matplotlib, Seaborn), Excel (Formulas, Charts, Pivot Tables, Regression), Power BI (DAX, Power Query, Interactive Dashboards), Git & GitHub for version control and collaboration.
+* Objective: To build a predictive model that helps service centers maintain optimal spare part inventory levels and achieve Just-In-Time (JIT) standards, minimizing overstock and understock issues.
 
 
 
