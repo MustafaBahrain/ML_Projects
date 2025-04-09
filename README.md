@@ -28,3 +28,10 @@
 * Techniques Used: EDA & Feature Engineering Regression Models: Linear, Random Forest , Time Series Models: ARIMA, SARIMA, Prophet,Model Evaluation: MAE & RMSE.
 * Key Skills: Python, pandas, scikit-learn, statsmodels, Prophet, data visualization, time series forecasting.
 * Objective: To identify trends in TCS stock prices and build accurate forecasting models, recommending the best one for future predictions.
+# 7. E-Commerce Furniture Dataset 2024
+* Description: This project leverages a dataset scraped from AliExpress containing 2,000 furniture product listings. The goal is to understand and predict consumer buying behavior by analyzing sales trends and product features. After preprocessing and exploratory analysis, several regression models were implemented and compared to identify the best-performing model for predicting units sold. Gradient Boosting emerged as the top model.
+* Techniques Used: Exploratory Data Analysis (EDA), Label Encoding & Feature Engineering, Outlier Handling & Scaling, Correlation Matrix & Feature Selection, Multiple Regression Models, Hyperparameter Tuning, Model Evaluation (MAE, MSE, RMSE, R²).
+* Key Skills: Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib), ML Algorithms (Linear Regression, Decision Tree, KNN, SVR, XGBoost, Gradient Boosting, etc.), Model Evaluation & Comparison, Data Cleaning & Preprocessing, Presentation & Communication (PPT Creation).
+* Objective: To predict the number of furniture items sold based on key product attributes like price, original price, product title, and tags using regression techniques.
+
+
